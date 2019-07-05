@@ -1,5 +1,4 @@
-# AMD 는 왜 Android Studio 에서 에뮬레이터가 돌아가지 않는 걸까?
-# Why AMD CPU doesn't support Android Studio Emulator..?
+# just MEMO - using nox in android studio
 
 #### 사용법
 - nox 를 깐다

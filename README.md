@@ -1,11 +1,9 @@
-# just MEMO - using nox in android studio
+# using nox in android studio
 
-#### 사용법
-- nox 를 깐다
-- android studio 를 켠다.
-- .bat 파일을 더블클릭한다.
+## usage
 
-#### usage
-- install nox
-- execute android studio
-- double click .bat file
+1. install nox
+
+2. execute android studio
+
+3. double click .bat file
